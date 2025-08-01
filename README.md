@@ -14,7 +14,7 @@
 
 ## 📬 Contact Me  
 - 📧 Email: amaima@brandeis.edu  
-- 🔗 LinkedIn: [linkedin.com/in/amaimaawais](https://www.linkedin.com/in/amaimaawais)  
+- 🔗 LinkedIn: [linkedin.com/in/amaimaawais](https://www.linkedin.com/in/amaima-awais/)  
 - 🌍 Location: Greater Boston Area  
 
 ---
