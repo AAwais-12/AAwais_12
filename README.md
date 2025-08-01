@@ -105,6 +105,6 @@ I'm a curious and driven student passionate about using technology to solve comp
 
 ## 📫 Let’s Connect!  
 Feel free to reach out to collaborate or chat!  
-📧 amaima@brandeis.edu | 🌐 [linkedin.com/in/amaimaawais](https://www.linkedin.com/in/amaimaawais)
+📧 amaima@brandeis.edu | 🌐 [linkedin.com/in/amaimaawais](https://www.linkedin.com/in/amaima-awais/)
 
 ---
