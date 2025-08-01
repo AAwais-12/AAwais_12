@@ -2,6 +2,7 @@
 Break Through Tech AI Studio Submission
 
 👋 Hi, I'm Amaima Awais  (Professional Photo can be accessed here: https://docs.google.com/document/d/1ZFdqe9NpTN_yCiKf9ysx7kf379uKcU0ItMe2scvE5d4/edit?tab=t.0)
+
 🎓 Rising Junior at Brandeis University | Economics & International and Global Studies  
 💼 AI/ML Fellow @ MIT x Break Through Tech | VP of Finance @ Brandeis Investment Club  
 📈 Aspiring Quantitative Analyst | Passionate about Machine Learning + Markets
