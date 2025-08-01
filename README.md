@@ -42,8 +42,7 @@ Can be accessed at: https://github.com/AAwais-12/Summer-Final-Project
 **Tech:** `Python`, `TensorFlow`, `Keras`, `NumPy`  
 **ML Concepts:** CNNs, activation functions, overfitting, model evaluation
 
-
-- 2. Ensemble Regression Methods (https://github.com/AAwais-12/Ensemble-Regression-Models)
+2. Ensemble Regression Methods (https://github.com/AAwais-12/Ensemble-Regression-Models)
 
 > Compares the performance of individual and ensemble regression models using a real-world dataset.
 
