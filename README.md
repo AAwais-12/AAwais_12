@@ -15,27 +15,49 @@ Currently, I’m enhancing my expertise in supervised/unsupervised learning, ens
 
 ---
 
-🎯 **Featured Project: Iris Dataset Classification**  
-**Context:** Final project for COSI 10A-2  
-**What I Did:**  
-- Built a custom linear classification model with vectorized logic  
-- Tested model accuracy across five different feature sets  
-- Analyzed learning rate behavior and its effect on convergence  
+🎯 **Featured Project: Break through Tech Final Summer Project
+Can be accessed at: https://github.com/AAwais-12/Summer-Final-Project
 
-**Tools:** Python
-**Outcome:** Improved understanding of feature importance and model tuning.  
+> Predicting whether an individual earns over $50K/year using U.S. Census data.
 
+- Developed end-to-end ML pipeline: data cleaning, feature engineering, and evaluation.
+- Applied models including Logistic Regression, Decision Trees, and Random Forest.
+- Tuned hyperparameters and interpreted feature importance to enhance model fairness and performance.
+- Achieved **~85% accuracy** with insights on income patterns.
+
+**Tech:** `Python`, `scikit-learn`, `Pandas`, `Seaborn`, `Matplotlib`  
+**ML Concepts:** Ensemble learning, feature selection, classification metrics, confusion matrix
 ---
 
 💻 **Other Projects**
 
-🏁 **Need For Speed — Object-Oriented Simulation**  
-- Developed a dynamic race simulation framework using Java  
-- Employed inheritance and polymorphism to simulate car behavior and performance under varying conditions  
+1. [MintCNN: Image Classification with Convolutional Neural Networks](https://github.com/AAwais-12/mint-cnn)
 
-📊 **Excel Modeling for Financial Literacy**  
-- Designed interactive workshops teaching budgeting, credit, and investing to high school students  
-- Used Excel, Canva, and real-life case studies to engage and educate
+> Built a CNN from scratch to classify objects in the CIFAR-10 dataset.
+
+- Implemented using `Keras` and `TensorFlow`
+- Designed and tuned deep learning architecture: convolutional layers, max-pooling, dropout, and dense layers
+- Achieved strong test accuracy and visualized performance with a confusion matrix
+
+**Tech:** `Python`, `TensorFlow`, `Keras`, `NumPy`  
+**ML Concepts:** CNNs, activation functions, overfitting, model evaluation
+
+
+- 2. Ensemble Regression Methods (https://github.com/AAwais-12/Ensemble-Regression-Models)
+
+> Compares the performance of individual and ensemble regression models using a real-world dataset.
+
+Key Contributions:
+- Preprocessed structured tabular data for regression modeling
+- Tuned and evaluated models using metrics like R² and Mean Squared Error (MSE)
+- Demonstrated the superior performance of ensemble models through comparative analysis
+- Visualized results with scatter plots, residual error plots, and performance bar charts
+
+Tools & Techniques:
+Python · scikit-learn · pandas · seaborn · Jupyter Notebook · Regression Modeling · Ensemble Learning · Data Visualization
+
+Impact:
+Achieved highest accuracy using a Stacking Regressor (R² ≈ 0.83), demonstrating the practical advantage of ensemble methods in structured prediction tasks
 
 ---
 
