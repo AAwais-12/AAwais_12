@@ -2,10 +2,10 @@
 **Break Through Tech AI Studio Submission**
 
 ---
-![Photo](https://github.com/user-attachments/assets/45a103b1-19af-4016-b0bf-29f1de933719)
+
 
 ##  Hi, I'm Amaima Awais  
- [Professional Photo](https://docs.google.com/document/d/1ZFdqe9NpTN_yCiKf9ysx7kf379uKcU0ItMe2scvE5d4/edit?tab=t.0)  
+ ![Photo](https://github.com/user-attachments/assets/45a103b1-19af-4016-b0bf-29f1de933719)
  Rising Junior at Brandeis University (Class of 2027)  
  Major: Economics and International and Global Studies  
  Minors: Finance and Computer Science | GPA: 3.8/4.0  
