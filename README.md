@@ -1,102 +1,110 @@
-# AAwais_12
-Break Through Tech AI Studio Submission
-
-👋 Hi, I'm Amaima Awais  (Professional Photo can be accessed here: https://docs.google.com/document/d/1ZFdqe9NpTN_yCiKf9ysx7kf379uKcU0ItMe2scvE5d4/edit?tab=t.0)
-
-🎓 Rising Junior at Brandeis University | Economics & International and Global Studies  
-💼 AI/ML Fellow @ MIT x Break Through Tech | VP of Finance @ Brandeis Investment Club  
-📈 Aspiring Quantitative Analyst | Passionate about Machine Learning + Markets
+# 👩‍💻 AAwais_12  
+**Break Through Tech AI Studio Submission**
 
 ---
 
-I'm deeply interested in how data and algorithms drive decision-making in finance. Through my coursework, leadership roles, and advanced machine learning fellowship at MIT x Break Through Tech, I’ve developed technical fluency in Python, Java, and statistical modeling—with an emphasis on real-world applications like fraud detection, operational optimization, and market analysis.
-
-Currently, I’m enhancing my expertise in supervised/unsupervised learning, ensemble methods, and neural networks while applying financial reasoning through student-managed investment and treasury oversight roles.
+## 👋 Hi, I'm Amaima Awais  
+📸 [Professional Photo](https://docs.google.com/document/d/1ZFdqe9NpTN_yCiKf9ysx7kf379uKcU0ItMe2scvE5d4/edit?tab=t.0)  
+🎓 Rising Junior at Brandeis University (Class of 2027)  
+📚 Major: Economics and International and Global Studies  
+📊 Minors: Finance and Computer Science | GPA: 3.8/4.0  
+💻 MIT Break Through Tech AI Fellow | Passionate about applied machine learning, quant finance, and tech for social good  
 
 ---
 
-🎯 **Featured Project: Break through Tech Final Summer Project
-Can be accessed at: https://github.com/AAwais-12/Summer-Final-Project
+## 📬 Contact Me  
+- 📧 Email: amaima@brandeis.edu  
+- 🔗 LinkedIn: [linkedin.com/in/amaimaawais](https://www.linkedin.com/in/amaimaawais)  
+- 🌍 Location: Greater Boston Area  
+
+---
+
+## 🔍 About Me  
+I'm a curious and driven student passionate about using technology to solve complex problems, especially in finance and global systems. As an MIT Break Through Tech AI Fellow, I've built projects in deep learning, predictive modeling, and time-series forecasting. I’m particularly excited about the intersection of data science, economics, and equity.
+
+---
+
+## 🎯 Featured Project: Break Through Tech Final Summer Project  
+🔗 [GitHub Repository](https://github.com/AAwais-12/Summer-Final-Project)  
 
 > Predicting whether an individual earns over $50K/year using U.S. Census data.
 
-- Developed end-to-end ML pipeline: data cleaning, feature engineering, and evaluation.
-- Applied models including Logistic Regression, Decision Trees, and Random Forest.
-- Tuned hyperparameters and interpreted feature importance to enhance model fairness and performance.
-- Achieved **~85% accuracy** with insights on income patterns.
+- Developed end-to-end ML pipeline: data cleaning, feature engineering, winsorization, and evaluation  
+- Applied models including Logistic Regression, Decision Trees, and Random Forest  
+- Tuned hyperparameters and interpreted feature importance to enhance fairness and performance  
+- Achieved **~85% accuracy** with insights on income patterns  
 
-**Tech:** `Python`, `scikit-learn`, `Pandas`, `Seaborn`, `Matplotlib`  
-**ML Concepts:** Ensemble learning, feature selection, classification metrics, confusion matrix
+**Tech Stack:** `Python`, `scikit-learn`, `Pandas`, `Seaborn`, `Matplotlib`  
+**Concepts:** Ensemble Learning, Classification Metrics, Model Explainability, Confusion Matrix  
+
 ---
 
-💻 **Other Projects**
+## 💻 Other Projects
 
-1. [MintCNN: Image Classification with Convolutional Neural Networks](https://github.com/AAwais-12/mint-cnn)
+### 1. [MintCNN: Image Classification with CNNs](https://github.com/AAwais-12/mint-cnn)  
+> Built a convolutional neural network to classify images from the CIFAR-10 dataset.  
 
-> Built a CNN from scratch to classify objects in the CIFAR-10 dataset.
-
-- Implemented using `Keras` and `TensorFlow`
-- Designed and tuned deep learning architecture: convolutional layers, max-pooling, dropout, and dense layers
-- Achieved strong test accuracy and visualized performance with a confusion matrix
+- Implemented using `Keras` and `TensorFlow`  
+- Designed CNN architecture with conv, max-pooling, dropout, and dense layers  
+- Achieved strong test accuracy; visualized model performance with confusion matrix  
 
 **Tech:** `Python`, `TensorFlow`, `Keras`, `NumPy`  
-**ML Concepts:** CNNs, activation functions, overfitting, model evaluation
-
-2. Ensemble Regression Methods (https://github.com/AAwais-12/Ensemble-Regression-Models)
-
-> Compares the performance of individual and ensemble regression models using a real-world dataset.
-
-Key Contributions:
-- Preprocessed structured tabular data for regression modeling
-- Tuned and evaluated models using metrics like R² and Mean Squared Error (MSE)
-- Demonstrated the superior performance of ensemble models through comparative analysis
-- Visualized results with scatter plots, residual error plots, and performance bar charts
-
-Tools & Techniques:
-Python · scikit-learn · pandas · seaborn · Jupyter Notebook · Regression Modeling · Ensemble Learning · Data Visualization
-
-Impact:
-Achieved highest accuracy using a Stacking Regressor (R² ≈ 0.83), demonstrating the practical advantage of ensemble methods in structured prediction tasks
+**Concepts:** CNNs, Model Tuning, Overfitting Prevention, Performance Evaluation  
 
 ---
 
-🧠 **Skills & Tools**
+### 2. [Ensemble Regression Models](https://github.com/AAwais-12/Ensemble-Regression-Models)  
+> Compared regression performance using individual and ensemble methods on real-world data.  
+
+- Cleaned and preprocessed structured tabular data for regression modeling  
+- Tuned and evaluated models using R² and Mean Squared Error (MSE)  
+- Demonstrated ensemble advantages using bagging, boosting, and stacking  
+- Visualized predictions with scatter plots, residual errors, and performance bar charts  
+
+**Tools:** `Python`, `scikit-learn`, `pandas`, `seaborn`, `Jupyter Notebook`  
+**Concepts:** Ensemble Learning, Regression Modeling, Stacking Regressor  
+
+**Impact:** Achieved highest accuracy using a stacking model (R² ≈ 0.83)
+
+---
+
+## 🧠 Skills & Tools  
 
 **Languages:** Python, Java  
 **ML/AI:** scikit-learn, TensorFlow, NumPy, pandas  
 **Finance & Analysis:** Excel (Advanced), Financial Modeling, Coupa, RNL Software  
 **Tools:** Git, GitHub, Jupyter, Canva, Microsoft Office  
-**Concepts:** OOP, Classification, Feature Engineering, Optimization, Budget Auditing  
-**Languages Spoken:** English (Fluent), Urdu & Punjabi (Native), Hindi (Conversational)
+**Core Concepts:** OOP, Feature Engineering, Classification, Optimization, Budget Auditing  
+**Languages Spoken:** English (Fluent), Urdu & Punjabi (Native), Hindi (Conversational)  
 
 ---
 
-🌍 **Leadership Highlights**
+## 🌍 Leadership Highlights  
 
-- 🎓 **Vice President of Finance**, Brandeis Investment Club  
-  Co-managing a $250K portfolio, conducting equity analysis using RSI, Bollinger Bands, and macro indicators  
+- 💰 **Vice President of Finance**, *Brandeis Investment Club*  
+  - Co-managing $250K portfolio using RSI, Bollinger Bands, and macro indicators  
 
-- 🧾 **Deputy Treasurer**, Brandeis Student Union  
-  Auditing a $2.2M budget across 200+ orgs; ensuring financial compliance and transparency  
+- 🧾 **Deputy Treasurer**, *Brandeis Student Union*  
+  - Auditing $2.2M budget across 200+ orgs for financial transparency  
 
-- 👩‍💻 **Mentoring Corps Coordinator**, Girls Who Code  
-  Led peer mentoring in Python and financial literacy workshops for high schoolers  
+- 👩‍💻 **Mentoring Corps Coordinator**, *Girls Who Code*  
+  - Led peer mentoring for Python and financial literacy workshops for high schoolers  
 
-- 🌐 **Director of Research**, Brandeis Society of International Affairs  
-  Leading research on post-election economic policy and global macro shifts  
-
----
-
-📫 **Let’s Connect!**  
-📧 Email: amaima@brandeis.edu  
-🔗 LinkedIn: https://www.linkedin.com/in/amaima-awais/
+- 🌐 **Director of Research**, *Brandeis Society of International Affairs*  
+  - Leading team research on post-election economic trends and global policy shifts  
 
 ---
 
-📚 **Certifications & Interests**  
-- *Machine Learning Foundations* (2025)  
-- *McKinsey Forward Program* (2024)  
-- Interests: Digital Transformation in Banking, Global Economic Policy, South Asian Literature, Cross-Cultural Leadership  
+## 📚 Certifications & Interests  
 
+- 🧠 *Machine Learning Foundations*, MIT Break Through Tech (2025)  
+- 🌍 *McKinsey Forward Program* (2024)  
+- 📖 Interests: Digital Transformation in Finance, South Asian Literature, Global Economic Policy, Cross-Cultural Leadership  
 
+---
 
+## 📫 Let’s Connect!  
+Feel free to reach out to collaborate or chat!  
+📧 amaima@brandeis.edu | 🌐 [linkedin.com/in/amaimaawais](https://www.linkedin.com/in/amaimaawais)
+
+---
