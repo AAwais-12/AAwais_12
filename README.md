@@ -42,7 +42,21 @@ I'm a curious and driven student passionate about using technology to solve comp
 
 ##  Other Projects
 
-### 1. [MintCNN: Image Classification with CNNs](https://github.com/AAwais-12/mint-cnn)  
+### 1. Model Selection for Logistic Regression (Lab 5 Project)  
+**[GitHub Repository](https://github.com/AAwais-12/BTT-Lab-5-)**  
+> Logistic regression model using Airbnb data with hyperparameter tuning*
+
+- Built a logistic regression classifier to predict Airbnb booking behavior  
+- Performed hyperparameter tuning using `GridSearchCV` over L2 regularization strength `C`  
+- Evaluated models using accuracy, confusion matrix, and precision-recall curve  
+- Identified the best value of `C` that maximized generalizability  
+
+**Dataset:** `airbnbData_train.csv` (contains booking behavior and listing metadata)  
+**Tools:** Python, scikit-learn, pandas, matplotlib, seaborn  
+**Concepts:** Logistic Regression, Cross-Validation, Classification Metrics, PR Curve  
+
+
+2. [MintCNN: Image Classification with CNNs](https://github.com/AAwais-12/mint-cnn)  
 > Built a convolutional neural network to classify images from the CIFAR-10 dataset.  
 
 - Implemented using `Keras` and `TensorFlow`  
@@ -54,7 +68,7 @@ I'm a curious and driven student passionate about using technology to solve comp
 
 ---
 
-### 2. [Ensemble Regression Models](https://github.com/AAwais-12/Ensemble-Regression-Models)  
+### 3. [Ensemble Regression Models](https://github.com/AAwais-12/Ensemble-Regression-Models)  
 > Compared regression performance using individual and ensemble methods on real-world data.  
 
 - Cleaned and preprocessed structured tabular data for regression modeling  
